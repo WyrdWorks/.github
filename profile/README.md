@@ -1,7 +1,7 @@
 # WyrdWorks
 
 <div align="center">
-  <img src="https://media.discordapp.net/attachments/342053402676822027/1108231553378697256/Wyrdworks.png?width=632&height=632" alt="WyrdWorks Logo">
+  <img src="https://media.discordapp.net/attachments/342053402676822027/1108231553378697256/Wyrdworks.png?width=250&height=250" alt="WyrdWorks Logo">
 </div>
 
 Welcome to the GitHub Organization for WyrdWorks, the epitome of fear-inducing and mind-bending psychological horror game development. We are dedicated to crafting immersive experiences that will challenge your perceptions, unsettle your senses, and push the boundaries of interactive storytelling.
